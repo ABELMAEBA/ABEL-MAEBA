@@ -1,0 +1,22 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic
+}
+header{
+    background-image:linear-gradient(rgba(160, 62, 119, 0.5),rgba(122, 79, 79, 0.5)), url(hotelll.jpg);
+    height: 80vh;
+    background-size: cover;
+    background-position: right;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    background-color: beige;
+}
+header{
+    background-image:linear-gradient(rgba(160, 62, 119, 0.5),rgba(122, 79, 79, 0.5)), url(web.jpg11.webp);
+    height: 100vh;
+    background-size: cover;
+    background-position: centre;
+    text-align: center;
+}
